@@ -102,6 +102,7 @@ For the character to shoot the bullets, we first had to create an empty object (
 
 <img width="600" alt="Screenshot 2024-10-04 140608" src="https://github.com/user-attachments/assets/f022df58-7cca-44ba-ac3b-b7dc88f62510">
 
+### Script:
 Then, we edited the Movement script from the asset to add two public GameObject variables called ‘prefab’ and ‘shootPoint’.
 
 <img width="286" alt="Screenshot 2024-10-04 170922" src="https://github.com/user-attachments/assets/d7e90ed0-e2ed-4cc6-8f48-e34ed01035c8">
@@ -125,6 +126,9 @@ Lastly, back in Unity, be sure to drag the bullet prefab and the shootPoint obje
 <img width="350" alt="Screenshot 2024-10-04 161206" src="https://github.com/user-attachments/assets/09a3b2d7-8a1d-45f6-ba20-fd0acf25a3e8">
 
 _Note:_ make sure the C# script is checked and the graph un-checked before running the program.
+
+### Visual Graph:
+
 
 ### Final Result
 
