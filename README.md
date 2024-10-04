@@ -100,7 +100,7 @@ Lastly, in Unity, be sure to change the value of the speed.
 ## Shooting Bullets
 For the character to shoot the bullets, we first had to create an empty object (GameObject > empty) which we referred to as ShootPoint, positioned it where we would want the bullets to come out of and then moved the object onto the hierarchy of the asset.
 
-<img width="450" alt="Screenshot 2024-10-04 140608" src="https://github.com/user-attachments/assets/f022df58-7cca-44ba-ac3b-b7dc88f62510">
+<img width="600" alt="Screenshot 2024-10-04 140608" src="https://github.com/user-attachments/assets/f022df58-7cca-44ba-ac3b-b7dc88f62510">
 
 Then, we edited the Movement script from the asset to add two public GameObject variables called ‘prefab’ and ‘shootPoint’.
 
