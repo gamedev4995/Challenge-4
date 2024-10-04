@@ -91,7 +91,7 @@ With the bullet’s look completed, we turned it into a prefab by dragging the o
 Within the prefab of the bullet, in the inspector tab, we created a script (Add Component > New script) which we named “forwardMovement”. 
 For this script, we added the public variable 'speed' and the following code for the purpose of providing movement for when the bullets are shot out.
 
-<img width="400" alt="Screenshot 2024-10-04 160802" src="https://github.com/user-attachments/assets/0e0f3c9e-8f1a-4f60-95b8-3f25db26401b">
+<img width="500" alt="Screenshot 2024-10-04 160802" src="https://github.com/user-attachments/assets/0e0f3c9e-8f1a-4f60-95b8-3f25db26401b">
 
 Lastly, in Unity, be sure to change the value of the speed.
 
