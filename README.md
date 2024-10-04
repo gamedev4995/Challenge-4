@@ -118,7 +118,7 @@ Variables:
 
 Code:
 
-<img width="700" alt="Screenshot 2024-10-04 170832" src="https://github.com/user-attachments/assets/bc9f249f-2b3b-409e-b3ed-e7971433684e">
+<img width="900" alt="Screenshot 2024-10-04 170832" src="https://github.com/user-attachments/assets/bc9f249f-2b3b-409e-b3ed-e7971433684e">
 
 Lastly, back in Unity, be sure to drag the bullet prefab and the shootPoint object to their corresponding variables.
 
