@@ -66,9 +66,9 @@ _Note:_ on your left and back groups, make sure you multiply your speed by -1 so
 
 [gif de graph]
 
-### Bullets
+## Bullets
 
-## Bullet Prefab: 
+### Bullet Prefab: 
 For the bullet, we first created a sphere (GameObject > 3D Object > Sphere) and scaled it down to a small size.
 
 <img width="300" alt="Screenshot 2024-10-04 134242" src="https://github.com/user-attachments/assets/acaf376c-14b3-4ffa-83da-45480abd67a4">
