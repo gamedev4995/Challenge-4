@@ -71,19 +71,19 @@ _Note:_ on your left and back groups, make sure you multiply your speed by -1 so
 ## Bullet Prefab: 
 For the bullet, we first created a sphere (GameObject > 3D Object > Sphere) and scaled it down to a small size.
 
-<img width="384" alt="Screenshot 2024-10-04 134242" src="https://github.com/user-attachments/assets/acaf376c-14b3-4ffa-83da-45480abd67a4">
+<img width="300" alt="Screenshot 2024-10-04 134242" src="https://github.com/user-attachments/assets/acaf376c-14b3-4ffa-83da-45480abd67a4">
 
 Then we created a new material by right clicking > Create > Material in the assets area or by clicking the ‘+’ symbol > Material.
 
-<img width="384" alt="Screenshot 2024-10-04 133959" src="https://github.com/user-attachments/assets/0f89feb3-595c-4d58-b969-8d4ed8ec6944">
+<img width="385" alt="Screenshot 2024-10-04 133959" src="https://github.com/user-attachments/assets/0f89feb3-595c-4d58-b969-8d4ed8ec6944">
 
 In the inspector tab of the material, within Surface Inputs, we changed the Base Map to our choice of color and added an emission for a glowing effect. 
 
-<img width="384" alt="Screenshot 2024-10-04 134147" src="https://github.com/user-attachments/assets/f2be6b3f-7f4f-41d3-a2ce-977a74201218">
+<img width="350" alt="Screenshot 2024-10-04 134147" src="https://github.com/user-attachments/assets/f2be6b3f-7f4f-41d3-a2ce-977a74201218">
 
 Then we dragged the material onto the sphere previously created. 
 
-<img width="384" alt="Screenshot 2024-10-04 134252" src="https://github.com/user-attachments/assets/31d19f82-db86-46df-97ff-50adc5713589">
+<img width="300" alt="Screenshot 2024-10-04 134252" src="https://github.com/user-attachments/assets/31d19f82-db86-46df-97ff-50adc5713589">
 
 With the bullet’s look completed, we turned it into a prefab by dragging the object from the Hierarchy tab onto a prefab folder.
 
@@ -91,7 +91,7 @@ With the bullet’s look completed, we turned it into a prefab by dragging the o
 Within the prefab of the bullet, in the inspector tab, we created a script (Add Component > New script) which we named “forwardMovement”. 
 For this script, we added the public variable 'speed' and the following code for the purpose of providing movement for when the bullets are shot out.
 
-<img width="384" alt="Screenshot 2024-10-04 160802" src="https://github.com/user-attachments/assets/0e0f3c9e-8f1a-4f60-95b8-3f25db26401b">
+<img width="400" alt="Screenshot 2024-10-04 160802" src="https://github.com/user-attachments/assets/0e0f3c9e-8f1a-4f60-95b8-3f25db26401b">
 
 Lastly, in Unity, be sure to change the value of the speed.
 
@@ -112,9 +112,10 @@ Continuing, we added the following code that creates an instance/copy of the bul
 
 The newly modified script should look like this:
 
-<img width="384" alt="Screenshot 2024-10-04 170801" src="https://github.com/user-attachments/assets/b543119a-6959-481f-b6ea-a9429643c1ad">
+<img width="400" alt="Screenshot 2024-10-04 170801" src="https://github.com/user-attachments/assets/b543119a-6959-481f-b6ea-a9429643c1ad">
 
-<img width="384" alt="Screenshot 2024-10-04 170832" src="https://github.com/user-attachments/assets/bc9f249f-2b3b-409e-b3ed-e7971433684e">
+
+<img width="400" alt="Screenshot 2024-10-04 170832" src="https://github.com/user-attachments/assets/bc9f249f-2b3b-409e-b3ed-e7971433684e">
 
 Lastly, back in Unity, be sure to drag the bullet prefab and the shootPoint object to their corresponding variables.
 
