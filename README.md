@@ -37,6 +37,9 @@ _Note:_ make sure you update your variables in unity and give them a value, as w
 
 ### Final Result: 
 
+https://github.com/user-attachments/assets/1ce1a86c-657d-4f3b-a029-1f4aba4df6cc
+
+
 
 ### Visual Graph
 For our player movement on visual graph, we first added a new script machine where we would write the code. Clicking on the character, to the left where the 'Inspector' window appears, scroll all the way down and click Add Component > Visual Scripting > Script Machine. Afterwards we simply translated our C# instructions into graph instructions. Make sure you check out the done script and check in there
@@ -64,7 +67,9 @@ _Note:_ on your left and back groups, make sure you multiply your speed by -1 so
 
 ### Final Result: 
 
-[gif de graph]
+![graph](https://github.com/user-attachments/assets/fd33b5be-03a3-4188-a59b-5b675b91eb16)
+
+
 
 ## Bullets
 
