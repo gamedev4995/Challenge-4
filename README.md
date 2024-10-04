@@ -79,7 +79,7 @@ Then we created a new material by right clicking > Create > Material in the asse
 
 In the inspector tab of the material, within Surface Inputs, we changed the Base Map to our choice of color and added an emission for a glowing effect. 
 
-<img width="350" alt="Screenshot 2024-10-04 134147" src="https://github.com/user-attachments/assets/f2be6b3f-7f4f-41d3-a2ce-977a74201218">
+<img width="300" alt="Screenshot 2024-10-04 134147" src="https://github.com/user-attachments/assets/f2be6b3f-7f4f-41d3-a2ce-977a74201218">
 
 Then we dragged the material onto the sphere previously created. 
 
@@ -108,13 +108,12 @@ Then, we edited the Movement script from the asset to add two public GameObject 
 
 Continuing, we added the following code that creates an instance/copy of the bullet prefab and positions it where the shooting point object is located once the left mouse button is pressed.
 
-<img width="384" alt="Screenshot 2024-10-04 170848" src="https://github.com/user-attachments/assets/61122b65-b0e5-4f76-8469-c706b8ada777">
+<img width="400" alt="Screenshot 2024-10-04 170848" src="https://github.com/user-attachments/assets/61122b65-b0e5-4f76-8469-c706b8ada777">
 
 The newly modified script should look like this:
 
 <img width="400" alt="Screenshot 2024-10-04 170801" src="https://github.com/user-attachments/assets/b543119a-6959-481f-b6ea-a9429643c1ad">
-
-
+------------------------------------------------------------------------------------------------------------------------------------------
 <img width="400" alt="Screenshot 2024-10-04 170832" src="https://github.com/user-attachments/assets/bc9f249f-2b3b-409e-b3ed-e7971433684e">
 
 Lastly, back in Unity, be sure to drag the bullet prefab and the shootPoint object to their corresponding variables.
