@@ -108,7 +108,7 @@ Then, we edited the Movement script from the asset to add two public GameObject 
 
 Continuing, we added the following code that creates an instance/copy of the bullet prefab and positions it where the shooting point object is located once the left mouse button is pressed.
 
-<img width="400" alt="Screenshot 2024-10-04 170848" src="https://github.com/user-attachments/assets/61122b65-b0e5-4f76-8469-c706b8ada777">
+<img width="450" alt="Screenshot 2024-10-04 170848" src="https://github.com/user-attachments/assets/61122b65-b0e5-4f76-8469-c706b8ada777">
 
 The newly modified script should look like this:
 
