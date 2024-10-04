@@ -113,14 +113,16 @@ Continuing, we added the following code that creates an instance/copy of the bul
 The newly modified script should look like this:
 
 Variables:
+
 <img width="400" alt="Screenshot 2024-10-04 170801" src="https://github.com/user-attachments/assets/b543119a-6959-481f-b6ea-a9429643c1ad">
 
-Code: 
+Code:
+
 <img width="400" alt="Screenshot 2024-10-04 170832" src="https://github.com/user-attachments/assets/bc9f249f-2b3b-409e-b3ed-e7971433684e">
 
 Lastly, back in Unity, be sure to drag the bullet prefab and the shootPoint object to their corresponding variables.
 
-<img width="384" alt="Screenshot 2024-10-04 161206" src="https://github.com/user-attachments/assets/09a3b2d7-8a1d-45f6-ba20-fd0acf25a3e8">
+<img width="350" alt="Screenshot 2024-10-04 161206" src="https://github.com/user-attachments/assets/09a3b2d7-8a1d-45f6-ba20-fd0acf25a3e8">
 
 _Note:_ make sure the C# script is checked and the graph un-checked before running the program.
 
