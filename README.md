@@ -36,9 +36,10 @@ _Note:_ make sure you update your variables in unity and give them a value, as w
 
 
 ### Final Result: 
-[gif de script]
 
-### Visual Graph 
+
+### Visual Graph
+
 
 For our player movement on visual graph, we first added a new script machine where we would write the code. Clicking on the character, to the left where the 'Inspector' window appears, scroll all the way down and click Add Component > Visual Scripting > Script Machine. Afterwards we simply translated our C# instructions into graph instructions. Make sure you check out the done script and check in there
 
@@ -70,6 +71,7 @@ _Note:_ on your left and back groups, make sure you multiply your speed by -1 so
 ## Bullet Prefab
 
 ## Shoot Bullet
+![shooting-ezgif com-crop](https://github.com/user-attachments/assets/411a955e-e1a2-45f8-b191-5e7faf31a3f9)
 
 ## Experienced Gained:
 
