@@ -104,7 +104,7 @@ For the character to shoot the bullets, we first had to create an empty object (
 
 Then, we edited the Movement script from the asset to add two public GameObject variables called ‘prefab’ and ‘shootPoint’.
 
-<img width="300" alt="Screenshot 2024-10-04 170922" src="https://github.com/user-attachments/assets/d7e90ed0-e2ed-4cc6-8f48-e34ed01035c8">
+<img width="286" alt="Screenshot 2024-10-04 170922" src="https://github.com/user-attachments/assets/d7e90ed0-e2ed-4cc6-8f48-e34ed01035c8">
 
 Continuing, we added the following code that creates an instance/copy of the bullet prefab and positions it where the shooting point object is located once the left mouse button is pressed.
 
