@@ -114,11 +114,11 @@ The newly modified script should look like this:
 
 Variables:
 
-<img width="400" alt="Screenshot 2024-10-04 170801" src="https://github.com/user-attachments/assets/b543119a-6959-481f-b6ea-a9429643c1ad">
+<img width="300" alt="Screenshot 2024-10-04 170801" src="https://github.com/user-attachments/assets/b543119a-6959-481f-b6ea-a9429643c1ad">
 
 Code:
 
-<img width="400" alt="Screenshot 2024-10-04 170832" src="https://github.com/user-attachments/assets/bc9f249f-2b3b-409e-b3ed-e7971433684e">
+<img width="500" alt="Screenshot 2024-10-04 170832" src="https://github.com/user-attachments/assets/bc9f249f-2b3b-409e-b3ed-e7971433684e">
 
 Lastly, back in Unity, be sure to drag the bullet prefab and the shootPoint object to their corresponding variables.
 
