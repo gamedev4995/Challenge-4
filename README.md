@@ -95,7 +95,7 @@ For this script, we added the public variable 'speed' and the following code for
 
 Lastly, in Unity, be sure to change the value of the speed.
 
-<img width="384" alt="Screenshot 2024-10-04 161136" src="https://github.com/user-attachments/assets/eb0a6659-a6c3-46ef-9e1e-607e77ed9873">
+<img width="350" alt="Screenshot 2024-10-04 161136" src="https://github.com/user-attachments/assets/eb0a6659-a6c3-46ef-9e1e-607e77ed9873">
 
 ## Shooting Bullets
 For the character to shoot the bullets, we first had to create an empty object (GameObject > empty) which we referred to as ShootPoint, positioned it where we would want the bullets to come out of and then moved the object onto the hierarchy of the asset.
@@ -104,7 +104,7 @@ For the character to shoot the bullets, we first had to create an empty object (
 
 Then, we edited the Movement script from the asset to add two public GameObject variables called ‘prefab’ and ‘shootPoint’.
 
-<img width="384" alt="Screenshot 2024-10-04 170922" src="https://github.com/user-attachments/assets/d7e90ed0-e2ed-4cc6-8f48-e34ed01035c8">
+<img width="300" alt="Screenshot 2024-10-04 170922" src="https://github.com/user-attachments/assets/d7e90ed0-e2ed-4cc6-8f48-e34ed01035c8">
 
 Continuing, we added the following code that creates an instance/copy of the bullet prefab and positions it where the shooting point object is located once the left mouse button is pressed.
 
@@ -112,8 +112,10 @@ Continuing, we added the following code that creates an instance/copy of the bul
 
 The newly modified script should look like this:
 
+Variables:
 <img width="400" alt="Screenshot 2024-10-04 170801" src="https://github.com/user-attachments/assets/b543119a-6959-481f-b6ea-a9429643c1ad">
-------------------------------------------------------------------------------------------------------------------------------------------
+
+Code: 
 <img width="400" alt="Screenshot 2024-10-04 170832" src="https://github.com/user-attachments/assets/bc9f249f-2b3b-409e-b3ed-e7971433684e">
 
 Lastly, back in Unity, be sure to drag the bullet prefab and the shootPoint object to their corresponding variables.
