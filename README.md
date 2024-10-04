@@ -1,7 +1,7 @@
 # Challenge 4 - Bullet Time
 
 
-For this challenge, ni se que poner aqui 
+For this challenge, we followed instructions on how to shoot game objects from assets.
 
 ---
 
