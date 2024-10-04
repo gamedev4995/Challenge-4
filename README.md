@@ -87,7 +87,7 @@ Then we dragged the material onto the sphere previously created.
 
 With the bullet’s look completed, we turned it into a prefab by dragging the object from the Hierarchy tab onto a prefab folder.
 
-## Script:
+### Script:
 Within the prefab of the bullet, in the inspector tab, we created a script (Add Component > New script) which we named “forwardMovement”. 
 For this script, we added the public variable 'speed' and the following code for the purpose of providing movement for when the bullets are shot out.
 
