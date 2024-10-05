@@ -150,6 +150,11 @@ Finally we connect the sequence node to our new instruction.
 
 <img width="600" alt="Screenshot 2024-10-04 at 7 58 57 PM" src="https://github.com/user-attachments/assets/338e6bab-5a2d-4107-a5dd-e2de4995a76d">
 
+This is what it looks like when we run the code using our graph.
+
+<img width="600" alt="Screenshot 2024-10-04 at 8 04 21 PM" src="https://github.com/user-attachments/assets/fe694a94-0c73-4dc1-bf4f-5f3e8ccfa268">
+
+
 ### Final Result
 
 ![shooting-ezgif com-crop](https://github.com/user-attachments/assets/411a955e-e1a2-45f8-b191-5e7faf31a3f9)
