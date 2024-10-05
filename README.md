@@ -71,7 +71,6 @@ _Note:_ on your left and back groups, make sure you multiply your speed by -1 so
 ![graph](https://github.com/user-attachments/assets/fd33b5be-03a3-4188-a59b-5b675b91eb16)
 
 
-
 ## Bullets
 
 ### Bullet Prefab: 
@@ -140,7 +139,6 @@ _Note:_ make sure the C# script is checked and the graph un-checked before runni
 
 ![shooting-ezgif com-crop](https://github.com/user-attachments/assets/411a955e-e1a2-45f8-b191-5e7faf31a3f9)
 
-## Experienced Gained:
 
 
 
