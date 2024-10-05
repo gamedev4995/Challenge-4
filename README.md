@@ -134,6 +134,21 @@ _Note:_ make sure the C# script is checked and the graph un-checked before runni
 
 ### Visual Graph:
 
+Here we added the two game object variables ‘prefab’ and ‘shootPoint’ and placed the Bullet prefab and shootPoint game objects on them respectively. 
+
+<img width="300" alt="Screenshot 2024-10-04 at 7 49 00 PM" src="https://github.com/user-attachments/assets/852bd14b-87c5-4646-8316-736d428bfaf4">
+
+Then we placed the Component instantiate node, Transform Get position and Transform Get rotation nodes. This is what this chunk of the grpah looks like before its connected.
+
+<img width="600" alt="Screenshot 2024-10-04 at 7 52 13 PM" src="https://github.com/user-attachments/assets/5247348a-2737-4957-9dcc-47758193188e">
+
+We added a third instruction to our sequence node in order to connect it to our new instruction chunck.
+
+<img width="200" alt="Screenshot 2024-10-04 at 7 56 06 PM" src="https://github.com/user-attachments/assets/9fc82923-0f2a-4bcc-ba02-0ae7a84948c7">
+
+Finally we connect the sequence node to our new instruction.
+
+<img width="600" alt="Screenshot 2024-10-04 at 7 58 57 PM" src="https://github.com/user-attachments/assets/338e6bab-5a2d-4107-a5dd-e2de4995a76d">
 
 ### Final Result
 
