@@ -37,7 +37,8 @@ _Note:_ make sure you update your variables in unity and give them a value, as w
 
 ### Final Result: 
 
-https://github.com/user-attachments/assets/1ce1a86c-657d-4f3b-a029-1f4aba4df6cc
+![script-ezgif com-crop](https://github.com/user-attachments/assets/e0452e8e-713e-41f4-961c-b46fefd6132b)
+
 
 
 
